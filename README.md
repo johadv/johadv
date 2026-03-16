@@ -90,7 +90,13 @@ I'm actively expanding my skill set in these areas:
 
 ---
 
+### 📧 Connect with me
+<p align="left">
+  <a href="mailto:jiihoo86@yahoo.com"><img src="https://img.shields.io/badge/Email-jiihoo86@yahoo.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/johadv"><img src="https://img.shields.io/badge/GitHub-johadv-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
+
 *"Building the future, one commit at a time."*
 
 ### GitHub Stats:
-![Profile views](https://komarev.com/ghpvc/?username=your-github-jonz-dsgn)
+![Profile views](https://komarev.com/ghpvc/?username=johadv&color=blue)
