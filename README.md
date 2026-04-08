@@ -71,10 +71,10 @@ I specialize in building modern, scalable applications using various tech combin
 
 I'm actively expanding my expertise and gaining practical experience in these key areas:
 
-* **Cloud-Native & DevSecOps:** Deep dive into Kubernetes orchestration and security (**CKS**, **KCNA** certified). Focused on building secure, scalable infrastructure and implementing DevSecOps best practices.
+* **Cloud-Native & DevSecOps:** Deep dive into Kubernetes orchestration and security. Focused on building secure, scalable infrastructure and implementing DevSecOps best practices.
 * **Modern Data Layer:** Mastering type-safe database management and optimization using **Drizzle ORM**, **Prisma**, and **PostgreSQL**.
 * **Full Stack Development:** Building robust applications with **PHP (Laravel)**, **Python**, and **JavaScript (React)**, including efficient state management with **Redux Toolkit**.
-* **System Administration:** Strong foundation in **Linux** environment (**LFCA**), shell scripting, and server management.
+* **System Administration:** Strong foundation in **Linux** environments, shell scripting, and server management.
 * **Architecture:** Designing and maintaining scalable **REST** & **GraphQL** APIs for modern software ecosystems.
 * **Innovation:** Practical application of **Machine Learning** and **AI/ML** integrations within web applications and SDKs.
 
