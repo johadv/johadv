@@ -43,21 +43,14 @@ Full Stack Developer specializing in **accessible**, **user-friendly** web solut
   <img src="https://img.shields.io/badge/Tools-SQL-4479A1?style=flat&logo=mysql&color=4479A1" />
 </p>
 
-**DevOps & Tools**
+**DevOps & Cloud**
 <p align="center">
   <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&color=2496ED" />
   <img src="https://img.shields.io/badge/Tools-Kubernetes-326CE5?style=flat&logo=kubernetes&color=326CE5" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat&logo=git&color=F05032" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat&logo=microsoftazure&color=0078D4" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazonaws&color=232F3E" />
   <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&color=FCC624" />
-</p>
-
----
-
-### Cloud & Security
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat&logo=microsoftazure&color=0078D4" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazonaws&color=232F3E" />
-  <img src="https://img.shields.io/badge/Security-Cybersecurity-FF385C?style=flat&logo=hackthebox&color=FF385C" />
+  <img src="https://img.shields.io/badge/Security-Cybersecurity-FF385C?style=flat&logo=hackthebox&color=FF385C" />
 </p>
 
 ---
@@ -66,27 +59,24 @@ Full Stack Developer specializing in **accessible**, **user-friendly** web solut
 
 I specialize in building modern, scalable applications using various tech combinations:
 
-- **Modern Full-Stack:** **TypeScript** + **React/Next.js** frontend with **Node.js** + **Prisma/Drizzle ORM** + **PostgreSQL** backend
-- **Mobile Development:** **Flutter** + **TypeScript** for cross-platform mobile application development
-- **Enterprise Applications:** **PHP** + **Laravel** backend with **React/Next.js** frontend and **PostgreSQL** database
-- **Rapid Prototyping:** **JavaScript** + **React** with **Node.js** and **MongoDB**
-- **Cloud-Native Solutions:** Containerized with **Docker** and orchestrated with **Kubernetes** on **AWS/Azure**
-- **DevSecOps:** Secure deployment pipelines on **Linux** infrastructure with automated security scanning
+- **Modern Full-Stack:** **TypeScript** + **React/Next.js** frontend with **Node.js** + **Prisma/Drizzle ORM** + **PostgreSQL** backend.
+- **Mobile Development:** **Flutter** + **TypeScript** for cross-platform mobile application development.
+- **Enterprise Applications:** **PHP** + **Laravel** backend with **React/Next.js** frontend and **PostgreSQL** database.
+- **Cloud-Native Solutions:** Containerized with **Docker** and orchestrated with **Kubernetes** on **AWS/Azure**.
+- **DevSecOps:** Secure deployment pipelines on **Linux** infrastructure with automated security scanning.
 
 ---
 
-### 📚 Currently Expanding Expertise
+### 🚀 Technical Focus & Specializations
 
-I'm actively expanding my skill set in these areas:
+I'm actively expanding my expertise and gaining practical experience in these key areas:
 
-- **Modern Data Layer:** Mastering **Drizzle ORM** alongside Prisma for type-safe database management.
-- **Mobile Development:** Enhancing **Flutter** and **TypeScript** skills for high-performance mobile solutions.
-- **Cloud-Native & Ops:** Deep dive into Kubernetes development, orchestration, and security, including DevSecOps practices.
-- **Data Layer:** Mastering Prisma ORM with PostgreSQL for advanced database design and optimization.
-- **System Admin:** Linux system administration, shell scripting, and server management.
-- **Frontend State:** Efficient state management for React applications using Redux Toolkit.
-- **Architecture:** Building scalable and maintainable REST & GraphQL APIs.
-- **Innovation:** Exploring Machine Learning and AI/ML integration in web applications.
+* **Cloud-Native & DevSecOps:** Deep dive into Kubernetes orchestration and security (**CKS**, **KCNA** certified). Focused on building secure, scalable infrastructure and implementing DevSecOps best practices.
+* **Modern Data Layer:** Mastering type-safe database management and optimization using **Drizzle ORM**, **Prisma**, and **PostgreSQL**.
+* **Full Stack Development:** Building robust applications with **PHP (Laravel)**, **Python**, and **JavaScript (React)**, including efficient state management with **Redux Toolkit**.
+* **System Administration:** Strong foundation in **Linux** environment (**LFCA**), shell scripting, and server management.
+* **Architecture:** Designing and maintaining scalable **REST** & **GraphQL** APIs for modern software ecosystems.
+* **Innovation:** Practical application of **Machine Learning** and **AI/ML** integrations within web applications and SDKs.
 
 ---
 
